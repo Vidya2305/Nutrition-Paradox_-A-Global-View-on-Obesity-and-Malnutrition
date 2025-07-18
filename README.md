@@ -41,3 +41,7 @@ Tried different visualizations using Matplotlib or Seaborn or Plotly to uncover 
 **🛠 Technical Tags:**
 
 Python, Pandas, SQL (SQLite / MySQL / PostgreSQL), Data Cleaning, Feature Engineering, Data Visualization, Matplotlib / Seaborn / Plotly, Power BI, pycountry,Public Health Data
+
+In Nutrition Paradox - A Global View on Obesity and Malnutrition-Copy1.ipynb you can see the coding part the project.
+
+In Nutrition Power BI.pdf you can see the Power BI output.
